@@ -1,1 +1,1 @@
-# halo-mod-menu
+Do not skid without perms!
